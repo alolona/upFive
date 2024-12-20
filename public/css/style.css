@@ -1,0 +1,14 @@
+body{
+    width: 80%;
+    margin: 0 auto;
+}
+.products{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.product-wrapper{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
